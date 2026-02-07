@@ -1,1 +1,5 @@
-FooConfig.cmake.in
+CMakeUserPresets.json
+build
+.vscode
+vcpkg-configuration.json
+vcpkg.json
